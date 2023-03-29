@@ -11,8 +11,8 @@ I decided to implement a lazy method because it is more challenging and requires
 I came up with 3 lazy solutions:
 
  * Calculations in one thread.
- * Multithreaded sync.
- * Multithreaded async.
+ * Multithreaded.
+ * Multithreaded pre-scheduled.
 
 ### Calculations in one thread
     Script Location: api/wallconstruction/modules/wall_construction/basic.py 
